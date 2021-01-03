@@ -12,10 +12,15 @@
 
 
 Aprendiz rápido e ansioso para explorar novas tecnologias.   
+
 Gostaria de compartilhar conhecimento.   
+
 Capaz de alternar entre perfeccionismo e pragmatismo. 
+
 Acredita no desenvolvimento ágil de software, trabalho em equipe e Código Limpo.   
-Capaz e disposto a pensar fora da caixa. 
+
+Capaz e disposto a pensar fora da caixa.
+
 Crescendo constantemente em desenvolvimento Front-End recentemente com VueJS, Typescript, JavaScript, HTML e CSS.
 
 
