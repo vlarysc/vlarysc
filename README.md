@@ -32,7 +32,7 @@ Capaz de alternar entre perfeccionismo e pragmatismo. Acredita no desenvolviment
 
 
 
-<p align="left" style="min-width: 300px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="vuejs" width="40" height="40"/> </p>
+<p align="left" style="min-width: 300px"> <img src="https://coryrylan.com/assets/images/posts/types/css.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="vuejs" width="40" height="40"/> </p>
 
 
 
