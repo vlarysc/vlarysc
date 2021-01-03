@@ -1,4 +1,8 @@
-[<img src="https://raw.githubusercontent.com/vlarysc/vlarysc/master/assets/intro.gif" alt="👋 Hi there! I'm Manoel Net|vlarysc.github.io" title="👋 Hi there! I'm Manoel Neto|vlarysc.github.io"/>
+
+
+# 👨🏻‍💻 About me #
+
+
 
 [![GitHub Vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
 
@@ -7,14 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlarysc/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manoelfranciscose@gmail.com)
-
-
-
-
-
-👨🏻‍💻 About me
-
-
 
 <div>
     <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
@@ -30,14 +26,20 @@ Capaz de alternar entre perfeccionismo e pragmatismo. Acredita no desenvolviment
 
 
 
+
+
+# Minhas Tecnologias #
+
+
+
+<p align="left" style="min-width: 300px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </p>
+
+
+
 <p align="center">
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlarysc&layout=compact&hide=html&hide_border=true" alt="vlarysc" />
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=vlarysc&show_icons=true&hide_border=true" alt="vlarysc" /></p>
 
-
-
-
-<p align="left" style="min-width: 300px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </p>
 
 
 
@@ -58,5 +60,3 @@ Connect with me <br>
 </p>
 
 
-
-- 
