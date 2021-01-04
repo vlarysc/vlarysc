@@ -13,7 +13,7 @@
 
 ### Aprendiz rápido e ansioso para explorar novas tecnologias. ###
 
-### Gostaria de compartilhar conhecimento. ### 
+### Amo compartilhar conhecimento. ### 
 
 ### Capaz de alternar entre perfeccionismo e pragmatismo. ###
 
