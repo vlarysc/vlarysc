@@ -14,19 +14,19 @@
 
 
 
-#                                #
 
 [![Linkedin](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png)](https://www.linkedin.com/in/vlarysc/)                   [![Gmail](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png)](mailto:manoelfranciscose@gmail.com)   
 
 
 
+
 <div>
     <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
-#                               &#128187; Introdução #
 
 
 
-Introdução em construção
+
+#                       &#128187; Introdução emconstrução                         #
 
 Where can I get some?
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
