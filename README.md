@@ -19,13 +19,7 @@
 <div>
     <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
 
-Aprendiz rápido e ansioso para explorar novas tecnologias.   
-
-Gostaria de compartilhar conhecimento.   
-
-Capaz de alternar entre perfeccionismo e pragmatismo. Acredita no desenvolvimento ágil de software, trabalho em equipe e Código Limpo.   Capaz e disposto a pensar fora da caixa. 
-
- Crescendo constantemente em desenvolvimento Front-End recentemente com VueJS, Typescript, JavaScript, HTML e CSS.
+Introdução em construção
 
 
 
