@@ -15,7 +15,7 @@
 
 
 
-[![Linkedin](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png)](https://www.linkedin.com/in/vlarysc/)                   [![Gmail](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png)](mailto:manoelfranciscose@gmail.com)   
+[![Linkedin](https://github.com/vlarysc/vlarysc/blob/main/assets/linkedin.png?raw=true)](https://www.linkedin.com/in/vlarysc/)[![Gmail](https://github.com/vlarysc/vlarysc/blob/main/assets/gmail.png?raw=true)](mailto:manoelfranciscose@gmail.com)   
 
 
 
