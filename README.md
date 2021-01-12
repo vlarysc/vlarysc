@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div>
     <img align="center" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
 
@@ -36,3 +37,6 @@ Capaz de alternar entre perfeccionismo e pragmatismo. Acredita no desenvolviment
 
 
 
+=======
+Oi
+>>>>>>> ca19765be0126ca1b9062bbabbe4035b75936f1f
