@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 <div>
-    <img align="center" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
+    <img align="left" width="20%" src="https://github.com/vlarysc/vlarysc/blob/main/assets/neto.png?raw=true" alt="fullstack developer animated image"/>
+<div>
+    <img align="right" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
 
 
 
@@ -36,7 +38,5 @@ Capaz de alternar entre perfeccionismo e pragmatismo. Acredita no desenvolviment
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=vlarysc&show_icons=true&hide_border=true" alt="vlarysc" /></p>
 
 
-
-=======
-Oi
->>>>>>> ca19765be0126ca1b9062bbabbe4035b75936f1f
+<div>
+    <img align="center" width="150%" src="https://raw.githubusercontent.com/vlarysc/vlarysc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>
