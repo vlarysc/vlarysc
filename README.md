@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div>
     <img align="left" width="20%" src="https://github.com/vlarysc/vlarysc/blob/main/assets/neto.png?raw=true" alt="fullstack developer animated image"/>
 <div>
