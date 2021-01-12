@@ -8,9 +8,13 @@
 
 
 
-#                               &#128187; Introdução #
 
 
+
+
+
+
+#                                #
 
 [![Linkedin](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png)](https://www.linkedin.com/in/vlarysc/)                   [![Gmail](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png)](mailto:manoelfranciscose@gmail.com)   
 
@@ -18,6 +22,9 @@
 
 <div>
     <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
+#                               &#128187; Introdução #
+
+
 
 Introdução em construção
 
