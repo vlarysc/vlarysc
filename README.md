@@ -3,12 +3,6 @@
 <div>
     <img align="right" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)
-
-[![Linkedin: vlarysc](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
-
-[![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
-
 <div>
     <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
 
@@ -41,6 +35,12 @@ Aliados a algumas qualidades pessoais:
 - Experiência em receber e dar feedbacks
 - Boa organização e gerenciamento
 - Metodologias Ágeis, principalmente Scrum
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)
+
+[![Linkedin: vlarysc](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
+
+[![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
 
 # Minhas Tecnologias
 
