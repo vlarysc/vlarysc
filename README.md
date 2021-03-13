@@ -26,10 +26,32 @@
 
 
 
-#                       &#128187; Introdução em construção                         #
+#                       &#128187; Introdução                         #
 
-Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Em 03 de novembro de 2020 eu conheci a programação por vídeos e me apaixonei, quando foi no dia 9, me matriculei em uma tecnólogo de analise e desenvolvimento de sistemas e dai por diante, fazia mais de 12 horas de cursos de segunda a segunda, sem passei e nem visita de amigos. Lembro que no natal e no ano novo eu estava em casa sendo chamado de louco, pois eu precisava de uma oportunidade inicial de emprego e para isso eu acreditava que precisava estudar mais e mais, então evitei e foi no dia 01 de janeiro de 2021 que eu consegui minha primeira oportunidade como freelance em um projeto feito em VUEJS. 
+
+Programação para mim é ter a possibilidade de criar aplicações que possam ser aproveitadas por terceiros e isso é algo que me contagia bastante, sou movido por uma energia de esperança que acredita que se fizemos algo de útil para o mundo estamos cultivando um mundo melhor e através da tecnologia eu me sinto capaz de fazer muito mais.
+
+Ser programador é desafiar-me diariamente e me adaptar a novas possibilidades e isso é motivador, afinal programação é a porta de entrada para o futuro e o futuro é um grande desafio.
+
+Tenho experiência no desenvolvimento de aplicações Java Script com código limpo e boa arquitetura, utilizando os seguintes frameworks:
+- Vuejs
+- Quasar
+- Angular
+
+Utilizando em conjunto:
+- Bootstrap
+- Vuetify
+- Vuex
+- Vue Router
+- Git, GitHub e GitLab
+
+Aliados a algumas qualidades pessoais:
+- Aprendizado constante
+- Boa habilidade de trabalho em equipe
+- Experiência em receber e dar feedbacks
+- Boa organização e gerenciamento
+- Metodologias Ágeis, principalmente Scrum 
 
 
 # Minhas Tecnologias #
