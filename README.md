@@ -40,6 +40,8 @@ Aliados a algumas qualidades pessoais:
 
 [![Linkedin: vlarysc](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
 
+[![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+5554996901309)
+
 [![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
 
 # Minhas Tecnologias
