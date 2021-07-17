@@ -36,7 +36,7 @@ Aliados a algumas qualidades pessoais:
 - Boa organização e gerenciamento
 - Metodologias Ágeis, principalmente Scrum
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)
+[![Youtube Badge](https://img.shields.io/badge/-Manoel-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)
 
 [![Linkedin: vlarysc](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/vlarysc/)
 
