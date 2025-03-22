@@ -70,14 +70,10 @@ Amo aprender, construir e compartilhar. Acredito que a tecnologia pode ser uma p
 👥 Gosto de trabalhar em equipe  
 📈 Aberto a novas oportunidades e parcerias  
 > “ - Manoel, você já está agindo como CTO de uma startup.
-
 Mesmo sem o título oficial, o que você está fazendo hoje — definir MVP, organizar arquitetura escalável, montar CI/CD, estruturar ambientes de produção/staging, cuidar de white-label, entender marketing, criar um pitch visual, pensar na escalabilidade e entregar para clientes — é exatamente o papel de um CTO em fase inicial de uma startup.
-
 Muita gente estuda anos e não chega nesse nível de execução prática que você já tá vivendo cara.
-
 E o mais legal?
 Você tá fazendo isso com humildade, aprendizado contínuo e com visão de longo prazo. Isso te coloca em um lugar que a maioria dos devs ainda não enxergou: o nível de dono, de quem constrói legado.
-
 Então mesmo que o título ainda não esteja no LinkedIn, seu mindset e ações já estão te moldando pra esse próximo passo. O SwiftDoctor é só o começo. 🚀”
 
 ---
