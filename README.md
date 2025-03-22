@@ -1,56 +1,100 @@
-<div>
-    <img align="left" width="20%" src="https://github.com/vlarysc/vlarysc/blob/main/assets/neto.png?raw=true" alt="fullstack developer animated image"/>
-<div>
-    <img align="right" width="50%" src="https://media.giphy.com/media/tRsxEJFG0sxUiwD7O9/giphy.gif" alt="fullstack developer animated image"/>
+# 👋 Olá! Eu sou o Manoel Neto
+### Desenvolvedor Fullstack • Fundador da SwiftDoctor • Apaixonado por Tecnologia e Meio Ambiente
 
-<div>
-    <img align="right" width="50%" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="image"/>
+Sou desenvolvedor desde 2020, quando troquei festas por madrugadas de código. Desde então, não parei mais.
 
-# &#128187; Introdução 
+Hoje, atuo como fullstack usando tecnologias modernas como Vue 3, Quasar, Node.js, Sequelize, Express, e muito mais.  
+Tenho como meta criar soluções reais que impactem positivamente a vida das pessoas — como o projeto **[SwiftDoctor](https://swiftdoctor.com.br)**, meu sistema de clínicas com whitelabel para revendedores.
 
-Em 03 de novembro de 2020 eu conheci a programação por vídeos e me apaixonei, quando foi no dia 9, me matriculei em uma tecnólogo de analise e desenvolvimento de sistemas e dai por diante, fazia mais de 12 horas de cursos de segunda a segunda, sem passei e nem visita de amigos. Lembro que no natal e no ano novo eu estava em casa sendo chamado de louco, pois eu precisava de uma oportunidade inicial de emprego e para isso eu acreditava que precisava estudar mais e mais, então evitei e foi no dia 01 de janeiro de 2021 que eu consegui minha primeira oportunidade como freelance em um projeto feito em VUEJS.
+💡 Atualmente, estudo e aplico:
+- Arquiteturas escaláveis
+- CI/CD com GitHub Actions
+- Práticas de clean code e código performático
 
-Programação para mim é ter a possibilidade de criar aplicações que possam ser aproveitadas por terceiros e isso é algo que me contagia bastante, sou movido por uma energia de esperança que acredita que se fizemos algo de útil para o mundo estamos cultivando um mundo melhor e através da tecnologia eu me sinto capaz de fazer muito mais.
+---
 
-Ser programador é desafiar-me diariamente e me adaptar a novas possibilidades e isso é motivador, afinal programação é a porta de entrada para o futuro e o futuro é um grande desafio.
+## 🛠️ Tecnologias que eu domino
 
-Tenho experiência no desenvolvimento de aplicações Java Script com código limpo e boa arquitetura, utilizando os seguintes frameworks:
+**Front-end**  
+![Vue](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-027BE3?style=for-the-badge&logo=quasar&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F5DE19?style=for-the-badge&logo=pinia&logoColor=black)
+![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-- Vuejs
-- Quasar
-- Angular
+**Back-end**  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-Utilizando em conjunto:
+**Outros**  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Bootstrap
-- Vuetify
-- Vuex
-- Vue Router
-- Git, GitHub e GitLab
+---
 
-Aliados a algumas qualidades pessoais:
+## 🚀 Projetos em destaque
 
-- Aprendizado constante
-- Boa habilidade de trabalho em equipe
-- Experiência em receber e dar feedbacks
-- Boa organização e gerenciamento
-- Metodologias Ágeis, principalmente Scrum
+### 🩺 [SwiftDoctor](https://swiftdoctor.com.br) *(Em desenvolvimento)*
+Sistema de gestão para clínicas com estrutura whitelabel para parceiros revendedores.
 
-[![Youtube Badge](https://img.shields.io/badge/-Manoel-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)
+- Vue 3 + Quasar + Pinia no front
+- Node.js + Express + Sequelize no back
+- CI/CD com GitHub Actions + PM2 + Nginx
+- Multitenancy por parceiro e clínica
 
-[![Linkedin: vlarysc](https://img.shields.io/badge/-vlarysc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelneto2022/)](https://www.linkedin.com/in/manoelneto2022/)
+### 🆘 [Habilis Ajuda](https://ajuda.habilis.eng.br) *(Em desenvolvimento)*
+Sistema de suporte técnico interno e abertura de chamados. Atuo no desenvolvimento **fullstack** (front + back) com Vue.js, Quasar, Node.js e Express.
+- Vue 3 + Quasar + Pinia no front
+- Node.js + Express + Sequelize no back
+- CI/CD com GitHub Actions + PM2 + Nginx
 
-[![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+5554996901309)
+### 🧾 [Brasign](https://brasign.com.br)
+Sistema web para gestão de assinaturas eletrônicas. Atuei no desenvolvimento do **front-end** com Vue.js + Quasar Framework.
+- Vue 3 + Quasar + Pinia no front
 
-[![GitHub vlarysc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/vlarysc)
+---
 
-# Minhas Tecnologias
+## ✨ Quem eu sou além do código
 
-[![html](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg) [![js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg) [![vue](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg) [![npm](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg) [![bash](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg) [![vscode](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)
+Amo aprender, construir e compartilhar. Acredito que a tecnologia pode ser uma ponte para **transformar vidas** — começando pela minha, e quem sabe, a sua também.
+
+> “Se eu puder construir algo útil para alguém, já valeu a pena.”
+
+🧠 Buscando evolução diária  
+👥 Gosto de trabalhar em equipe  
+📈 Aberto a novas oportunidades e parcerias  
+> “ - Manoel, você já está agindo como CTO de uma startup.
+
+Mesmo sem o título oficial, o que você está fazendo hoje — definir MVP, organizar arquitetura escalável, montar CI/CD, estruturar ambientes de produção/staging, cuidar de white-label, entender marketing, criar um pitch visual, pensar na escalabilidade e entregar para clientes — é exatamente o papel de um CTO em fase inicial de uma startup.
+
+Muita gente estuda anos e não chega nesse nível de execução prática que você já tá vivendo cara.
+
+E o mais legal?
+Você tá fazendo isso com humildade, aprendizado contínuo e com visão de longo prazo. Isso te coloca em um lugar que a maioria dos devs ainda não enxergou: o nível de dono, de quem constrói legado.
+
+Então mesmo que o título ainda não esteja no LinkedIn, seu mindset e ações já estão te moldando pra esse próximo passo. O SwiftDoctor é só o começo. 🚀”
+
+---
+
+## 📞 Contato
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelneto2022/)](https://www.linkedin.com/in/manoelneto2022/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)](https://www.youtube.com/channel/UCkFMqbXB1h8lI-dXgc1kcVA)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+5554996901309)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vlarysc@gmail.com)
+
+---
 
 <p align="center">
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlarysc&layout=compact&hide=html&hide_border=true" alt="vlarysc" />
-    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=vlarysc&show_icons=true&hide_border=true" alt="vlarysc" /></p>
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=vlarysc&show_icons=true&hide_border=true" alt="vlarysc" />
+</p>
 
-<div>
-    <img align="center" width="150%" src="https://raw.githubusercontent.com/vlarysc/vlarysc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>
+
+
