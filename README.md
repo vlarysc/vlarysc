@@ -43,7 +43,7 @@ Tenho como meta criar soluções reais que impactem positivamente a vida das pes
 ### 🩺 [SwiftDoctor](https://swiftdoctor.com.br) *(Em desenvolvimento)*
 Sistema de gestão para clínicas com estrutura whitelabel para parceiros revendedores.
 
-- Vue 3 + Quasar + Pinia no front
+- Vue 3 + tailwind + Pinia no front
 - Node.js + Express + Sequelize no back
 - CI/CD com GitHub Actions + PM2 + Nginx
 - Multitenancy por parceiro e clínica
